@@ -1,0 +1,11 @@
+[{
+    "name": "admin",
+    "phone": "0000",
+    "mail": "admin@gmail.com",
+    "Governorate": "Cairo",
+    "Gender": "male",
+    "Age": "55",
+    "Password": "admin123",
+    "National ID": "99"
+  }
+]
