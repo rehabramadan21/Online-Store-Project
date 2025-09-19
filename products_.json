@@ -1,0 +1,51 @@
+{
+    "HomeAppliances": [
+        {
+            "id": 0,
+            "name": "Microwave Oven",
+            "price": 199,
+            "brand": "Panasonic",
+            "year": 2023,
+            "description": "High-quality microwave with advanced features",
+            "stock": 9
+        },
+        {
+            "id": 1,
+            "name": "Refrigerator",
+            "price": 999,
+            "brand": "Samsung",
+            "year": 2022,
+            "description": "Energy-efficient smart refrigerator",
+            "stock": 8
+        },
+        {
+            "id": 2,
+            "name": "Washing Machine",
+            "price": 699,
+            "brand": "LG",
+            "year": 2021,
+            "description": "Front-loading washing machine with steam cleaning",
+            "stock": 12
+        }
+    ],
+    "Books": [
+        {
+            "id": 3,
+            "name": "Python Programming",
+            "price": 39,
+            "brand": "O'Reilly",
+            "year": 2020,
+            "description": "Learn Python step by step",
+            "stock": 30
+        },
+        {
+            "id": 4,
+            "name": "Data Science Handbook",
+            "price": 49,
+            "brand": "MIT Press",
+            "year": 2021,
+            "description": "Comprehensive guide to data science",
+            "stock": 15
+        }
+    ]
+}

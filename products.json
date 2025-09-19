@@ -1,0 +1,147 @@
+{
+    "HomeAppliances": [
+        {
+            "id": 1,
+            "name": "Microwave Oven",
+            "price": 150,
+            "brand": "LG",
+            "model year": 2025,
+            "description": "Quickly heats your food",
+            "stock": 25
+        },
+        {
+            "id": 2,
+            "name": "Blender",
+            "price": 80,
+            "brand": "Philips",
+            "model year": 2023,
+            "description": "Smoothies and shakes made easy",
+            "stock": 30
+        },
+        {
+            "id": 3,
+            "name": "Air Fryer",
+            "price": 200,
+            "brand": "Samsung",
+            "model year": 2024,
+            "description": "Healthy fried food with less oil",
+            "stock": 15
+        }
+    ],
+    "Books": [
+        {
+            "id": 1,
+            "name": "Learn How to Learn",
+            "price": 50,
+            "brand": "LB",
+            "model year": 2020,
+            "description": "Learn smarter, not harder",
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "name": "Deep Work",
+            "price": 70,
+            "brand": "Cal Newport",
+            "model year": 2016,
+            "description": "Focus without distraction",
+            "stock": 12
+        },
+        {
+            "id": 3,
+            "name": "Atomic Habits",
+            "price": 60,
+            "brand": "James Clear",
+            "model year": 2018,
+            "description": "Tiny changes, remarkable results",
+            "stock": 18
+        }
+    ],
+    "Fashion": [
+        {
+            "id": 1,
+            "name": "Leather Jacket",
+            "price": 250,
+            "brand": "Zara",
+            "model year": 2024,
+            "description": "Stylish and warm leather jacket",
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "name": "Sneakers",
+            "price": 120,
+            "brand": "Nike",
+            "model year": 2023,
+            "description": "Comfortable running shoes",
+            "stock": 20
+        },
+        {
+            "id": 3,
+            "name": "Wrist Watch",
+            "price": 180,
+            "brand": "Casio",
+            "model year": 2022,
+            "description": "Classic analog watch",
+            "stock": 15
+        }
+    ],
+    "Sports": [
+        {
+            "id": 1,
+            "name": "Football",
+            "price": 30,
+            "brand": "Adidas",
+            "model year": 2023,
+            "description": "High-quality football",
+            "stock": 24
+        },
+        {
+            "id": 2,
+            "name": "Tennis Racket",
+            "price": 120,
+            "brand": "Wilson",
+            "model year": 2024,
+            "description": "Professional tennis racket",
+            "stock": 10
+        },
+        {
+            "id": 3,
+            "name": "Yoga Mat",
+            "price": 40,
+            "brand": "Reebok",
+            "model year": 2022,
+            "description": "Comfortable and non-slip",
+            "stock": 20
+        }
+    ],
+    "Electronics": [
+        {
+            "id": 1,
+            "name": "Smartphone",
+            "price": 500,
+            "brand": "Apple",
+            "model year": 2025,
+            "description": "Latest iPhone model",
+            "stock": 8
+        },
+        {
+            "id": 2,
+            "name": "Laptop",
+            "price": 1200,
+            "brand": "Dell",
+            "model year": 2024,
+            "description": "High-performance laptop",
+            "stock": 9
+        },
+        {
+            "id": 3,
+            "name": "Wireless Headphones",
+            "price": 300,
+            "brand": "Sony",
+            "model year": 2023,
+            "description": "Noise-cancelling headphones",
+            "stock": 12
+        }
+    ]
+}
